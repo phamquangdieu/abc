@@ -1,0 +1,11 @@
+2019-04-22T15:31:00.164Z:[info]:transfer:ripple:user123456:abc:3000:transfer ripple
+2019-04-22T15:31:00.167Z:[info]:create:bitcoin:HelloWorld:1500:Tao user!!
+2019-04-22T15:31:00.167Z:[error]:deposit:ethereum:1440:ERROR DEPOSIT
+2019-04-22T15:38:17.834Z:[info]:transfer:ripple:user123456:abc:3000:transfer ripple
+2019-04-22T15:38:17.838Z:[info]:create:bitcoin:HelloWorld:1500:Tao user!!
+2019-04-22T15:38:17.839Z:[error]:deposit:ethereum:1440:ERROR DEPOSIT
+2019-04-22T15:38:17.839Z:[info]:transfer:ripple:123456user:abc:3111:transfer ripple
+2019-04-23T08:20:28.119Z:[info]:transfer:ripple:user123456:abc:3000:transfer ripple
+2019-04-23T08:20:28.122Z:[info]:create:bitcoin:HelloWorld:1500:Tao user!!
+2019-04-23T08:20:28.122Z:[error]:deposit:ethereum:1440:ERROR DEPOSIT
+2019-04-23T08:20:28.122Z:[info]:transfer:ripple:123456user:abc:3111:transfer ripple
